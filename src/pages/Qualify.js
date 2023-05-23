@@ -4,7 +4,7 @@ const Qualify = () => {
   return (
     <div className='pb-20 bg-red-50'>
       <div className='p-20'><h1 className='text-3xl font-bold'>Qualifying for Compensation</h1></div>
-      <div className='px-20 grid grid-cols-3 gap-5'>
+      <div className='px-20 grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-5'>
       <div>
         <p className='text-xl'>There are many people beyond firefighters who come into daily contact with firefighting foam and similar fire-retardant chemicals. Persons under significant threat of fire may work in an environment laced with carcinogenic preventative measures. This is especially prevalent in the military, aeronautic, or construction industries.</p>
       </div>
