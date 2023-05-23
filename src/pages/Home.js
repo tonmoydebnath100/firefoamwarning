@@ -113,7 +113,7 @@ const Home = () => {
                 </select>
               </div>
               <div className="form-control">
-                <div className='flex justify-between'>
+                <div className='lg:flex justify-between'>
                   <div>
                     <label className="label">
                       <span className="label-text font-medium">First Name</span>
@@ -135,7 +135,7 @@ const Home = () => {
                 <input name='email' type="email" placeholder="Email" className="input input-bordered" required />
               </div>
               <div className="form-control">
-                <div className='flex justify-between'>
+                <div className='lg:flex justify-between'>
                   <div>
                     <label className="label">
                       <span className="label-text font-medium">Phone Number</span>
